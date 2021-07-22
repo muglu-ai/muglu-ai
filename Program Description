@@ -1,0 +1,3 @@
+This is a CLI program. In this Program, we can store Employee Information like (I) Employee ID (II) Employee Name (III) Designation (IV) Department (V) Salary etc.
+This whole program is written in the C language. I have implemented my Data Structure Knowledge and used Linked List to perform different operations.
+While doing so, I learned how the LINKED LIST work and how we can use it to perform a different type of operation like STRINGS, DYNAMIC ALLOCATION, and many such concepts of Data Structures.
