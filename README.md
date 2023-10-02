@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @muglu-ai
-- 👀 I’m interested in AI Design and Cyber Security.
+- 👀 I’m interested Web Developement.
 - 🌱 I’m currently learning Data Structures and Algorithms
 - 💞️ I’m looking to collaborate on anything that make me learn something new.
 - 📫 How to reach me -I'm availabe on Linkedin as https://www.linkedin.com/in/manish-sharma-2020/
